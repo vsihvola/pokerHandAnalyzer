@@ -1,0 +1,110 @@
+
+Player 1 Results
+
+5 of Spades
+Q of Clubs
+4 of Clubs
+J of Hearts
+6 of Spades
+
+Empty hand
+------------------------
+Player 2 Results
+
+6 of Diamonds
+10 of Hearts
+9 of Hearts
+5 of Clubs
+4 of Hearts
+
+Empty hand
+------------------------
+Player 3 Results
+
+7 of Clubs
+4 of Spades
+7 of Spades
+6 of Hearts
+K of Spades
+
+You have a pair of 7
+------------------------
+
+End of game
+
+------------------
+
+
+Player 1 Results
+
+3 of Hearts
+8 of Diamonds
+K of Hearts
+3 of Diamonds
+9 of Clubs
+
+You have a pair of 3
+------------------------
+Player 2 Results
+
+4 of Diamonds
+5 of Spades
+5 of Diamonds
+Q of Spades
+8 of Hearts
+
+You have a pair of 5
+------------------------
+Player 3 Results
+
+K of Diamonds
+6 of Spades
+5 of Clubs
+10 of Spades
+J of Diamonds
+
+Empty hand
+------------------------
+
+End of game
+
+------------------
+
+
+Player 1 Results
+
+Q of Diamonds
+6 of Diamonds
+2 of Hearts
+3 of Spades
+J of Spades
+
+Empty hand
+------------------------
+Player 2 Results
+
+4 of Hearts
+6 of Clubs
+9 of Diamonds
+5 of Diamonds
+K of Diamonds
+
+Empty hand
+------------------------
+Player 3 Results
+
+6 of Spades
+A of Diamonds
+K of Clubs
+9 of Spades
+3 of Clubs
+
+Empty hand
+------------------------
+
+End of game
+
+------------------
+
+
+
